@@ -1,4 +1,4 @@
-# Revenue Incinerator
+# API3 Lottery
 
 
 ## Pre Requisites
